@@ -3,8 +3,8 @@
 FFmpeg 3.1.4 with built in Cedrus264 HW Encoder for the H3 platform.
 This was built on Ubuntu 12.04 rootfs (Armbian 5.23).
 
-Ideal for H3 boards with 512 Dram memmory
------------------------------------------
+Ideal for H3 boards with 512MB / 1GB Dram memory size
+-----------------------------------------------------
 
 - FriendlyArm (NanoPi M1 / NanoPi Neo Air)
 - BananaPi M2+
