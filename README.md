@@ -14,7 +14,7 @@ Ideal for H3 boards with 512MB / 1GB Dram memory size
 Dependencies
 ============
 
-	sudo apt-get install libmp3lame-dev libx264-dev libpulse-dev libv4l-dev
+	sudo apt-get install libmp3lame-dev libx264-dev libpulse-dev libv4l-dev libva-dev
 
 
 Source Code and Instructions
